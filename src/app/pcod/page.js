@@ -200,7 +200,7 @@ export default function PcodInfoPage() {
                                 </p>
                                 <ul className="list-disc list-inside space-y-2 text-gray-700">
                                     <li><span className="font-semibold text-gray-800">Genetics:</span> PCOD often runs in families, suggesting a genetic predisposition.</li>
-                                    <li><span className="font-semibold text-gray-800">Insulin Resistance:</span> This is a key factor. When the body&apos;s cells don't respond well to insulin, it can cause the ovaries to produce more androgens, disrupting ovulation.</li>
+                                    <li><span className="font-semibold text-gray-800">Insulin Resistance:</span> This is a key factor. When the body&apos;s cells do not respond well to insulin, it can cause the ovaries to produce more androgens, disrupting ovulation.</li>
                                     <li><span className="font-semibold text-gray-800">Lifestyle Factors:</span> An unhealthy diet, a sedentary lifestyle, and chronic stress are often linked to PCOD.</li>
                                     <li><span className="font-semibold text-gray-800">Hormonal Imbalances:</span> PCOD is fundamentally a hormonal disorder with an imbalance in hormones that regulate the menstrual cycle.</li>
                                 </ul>
