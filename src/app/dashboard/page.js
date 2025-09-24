@@ -18,7 +18,7 @@ export default function DashboardPage() {
 
     // This effect protects the route. If no user is logged in, it redirects to the login page.
     useEffect(() => {
-        if (!user) {
+        if (user===null) {
             router.push('/login');
         }
     }, [user, router]);
