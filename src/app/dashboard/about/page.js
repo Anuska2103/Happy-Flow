@@ -74,7 +74,7 @@ export default function AboutPage() {
             variants={textVariants}
             transition={{ delay: 1.2 }}
           >
-            We are a small team of passionate individuals dedicated to creating a safe and beautiful space for women's health. With features like our personalized PCOD dietary plans, yoga suggestions, and easy-to-use cycle tracker, we aim to make managing your well-being effortless and intuitive.
+            We are a small team of passionate individuals dedicated to creating a safe and beautiful space for women health. With features like our personalized PCOD dietary plans, yoga suggestions, and easy-to-use cycle tracker, we aim to make managing your well-being effortless and intuitive.
           </motion.p>
         </motion.div>
 

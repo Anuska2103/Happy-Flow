@@ -111,7 +111,7 @@ export default function ChatbotAgent() {
                     <motion.div variants={itemVariants} className='text-black-500 text-center mb-8'>
                         <motion.h1 className='font-serif text-4xl text-pink-900 '>MediHelp</motion.h1>
                         <br></br>
-                        <motion.p className="font-serif text-l text-slate-600">Let's dive into Your report. Please upload them and search</motion.p>
+                        <motion.p className="font-serif text-l text-slate-600">Let&apos;s dive into Your report. Please upload them and search</motion.p>
                     </motion.div>
 
                     {/* Styled Input Container with File and Prompt */}

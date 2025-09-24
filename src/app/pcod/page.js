@@ -164,7 +164,7 @@ export default function PcodInfoPage() {
                 
                 <div className="max-w-5xl mx-auto">
                     <p className="text-base md:text-lg text-gray-700 mb-8 text-left">
-                        Well relax, you are not the only one here. It's a very common syndrome and almost 9 in 10 women are suffering from this. But before going anywhere else, let's first see what PCOD/PCOS actually is.
+                        Well relax, you are not the only one here. It&apos;s a very common syndrome and almost 9 in 10 women are suffering from this. But before going anywhere else, let first see what PCOD/PCOS actually is.
                     </p>
 
                     {/* Information Card: Now with a white background and black text */}
@@ -178,7 +178,7 @@ export default function PcodInfoPage() {
                         {/* Content inside the card is formatted for readability */}
                         <div className="text-black space-y-6 text-base md:text-lg">
                             <p>
-                                Polycystic Ovarian Disease (PCOD) is a medical condition where a woman's ovaries produce many immature or partially mature eggs. These eggs are not released during ovulation and can accumulate in the ovaries over time, forming small, fluid-filled sacs or cysts. PCOD is primarily a hormonal disorder that disrupts the normal menstrual cycle and can lead to a variety of symptoms. It is often considered a milder condition than PCOS and is more common, affecting a large number of women in their reproductive years.
+                                Polycystic Ovarian Disease (PCOD) is a medical condition where a woman&apos;s ovaries produce many immature or partially mature eggs. These eggs are not released during ovulation and can accumulate in the ovaries over time, forming small, fluid-filled sacs or cysts. PCOD is primarily a hormonal disorder that disrupts the normal menstrual cycle and can lead to a variety of symptoms. It is often considered a milder condition than PCOS and is more common, affecting a large number of women in their reproductive years.
                             </p>
 
                             <div>
@@ -200,7 +200,7 @@ export default function PcodInfoPage() {
                                 </p>
                                 <ul className="list-disc list-inside space-y-2 text-gray-700">
                                     <li><span className="font-semibold text-gray-800">Genetics:</span> PCOD often runs in families, suggesting a genetic predisposition.</li>
-                                    <li><span className="font-semibold text-gray-800">Insulin Resistance:</span> This is a key factor. When the body's cells don't respond well to insulin, it can cause the ovaries to produce more androgens, disrupting ovulation.</li>
+                                    <li><span className="font-semibold text-gray-800">Insulin Resistance:</span> This is a key factor. When the body&apos;s cells don't respond well to insulin, it can cause the ovaries to produce more androgens, disrupting ovulation.</li>
                                     <li><span className="font-semibold text-gray-800">Lifestyle Factors:</span> An unhealthy diet, a sedentary lifestyle, and chronic stress are often linked to PCOD.</li>
                                     <li><span className="font-semibold text-gray-800">Hormonal Imbalances:</span> PCOD is fundamentally a hormonal disorder with an imbalance in hormones that regulate the menstrual cycle.</li>
                                 </ul>
